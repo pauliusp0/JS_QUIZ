@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      {
+        "text": "Home Tool Markup Language  ",
+        "correct": false
+      },
+      {
+        "text": "Hyperlinks and Text Markup Language",
+        "correct": false
+      },
+      {
+        "text": "Hyper Text Markup Language  ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the correct HTML element for the largest heading:",
+    "answers": [
+      {
+        "text": "<h1>  ",
+        "correct": true
+      },
+      {
+        "text": "<h6>",
+        "correct": false
+      },
+      {
+        "text": "<head>",
+        "correct": false
+      },
+      {
+        "text": "<heading>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct HTML element for inserting a line break?",
+    "answers": [
+      {
+        "text": "<break>",
+        "correct": false
+      },
+      {
+        "text": "<br>",
+        "correct": true
+      },
+      {
+        "text": "<lb>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct HTML for adding a background color?",
+    "answers": [
+      {
+        "text": "<body style='background-color:yellow;'>",
+        "correct": true
+      },
+      {
+        "text": "<background>yellow</background>",
+        "correct": false
+      },
+      {
+        "text": "<body bg='yellow'>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the correct HTML element to define important text",
+    "answers": [
+      {
+        "text": "<b>",
+        "correct": false
+      },
+      {
+        "text": "<i>",
+        "correct": false
+      },
+      {
+        "text": "<strong>",
+        "correct": true
+      },
+      {
+        "text": "<important>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which HTML element defines navigation links?",
+    "answers": [
+      {
+        "text": "<nav>",
+        "correct": true
+      },
+      {
+        "text": "<navigate>",
+        "correct": false
+      },
+      {
+        "text": "<navigation>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which character is used to indicate an end tag?",
+    "answers": [
+      {
+        "text": "*",
+        "correct": false
+      },
+      {
+        "text": "^",
+        "correct": false
+      },
+      {
+        "text": "/ ",
+        "correct": true
+      },
+      {
+        "text": "<",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these elements are all <table> elements?",
+    "answers": [
+      {
+        "text": "<table><head><tfoot>",
+        "correct": false
+      },
+      {
+        "text": "<table><tr><tt>",
+        "correct": false
+      },
+      {
+        "text": "<table><tr><td> ",
+        "correct": true
+      },
+      {
+        "text": "<thead><body><tr>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Inline elements are normally displayed without starting a new line.'?",
+    "answers": [
+      {
+        "text": "True",
+        "correct": true
+      },
+      {
+        "text": "False",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct HTML for making a text input field?",
+    "answers": [
+      {
+        "text": "<input type='text'>",
+        "correct": true
+      },
+      {
+        "text": "'<textinput type='text'>",
+        "correct": false
+      },
+      {
+        "text": "<textfield>",
+        "correct": false
+      },
+      {
+        "text": "<input type='textfield'>",
+        "correct": false
+      }
+    ]
+  }
+]

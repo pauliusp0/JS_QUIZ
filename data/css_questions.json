@@ -1,0 +1,184 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      {
+        "text": "Colorful Style Sheets  ",
+        "correct": false
+      },
+      {
+        "text": "Computer Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Cascading Style Sheets  ",
+        "correct": true
+      },
+      {
+        "text": "Creative Style Sheets",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct HTML for referring to an external style sheet?",
+    "answers": [
+      {
+        "text": "<style src='mystyle.css'>  ",
+        "correct": false
+      },
+      {
+        "text": "<link rel='stylesheet' type='text/css' href='mystyle.cs'>  ",
+        "correct": true
+      },
+      {
+        "text": "<stylesheet>mystyle.css</stylesheet>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+    "answers": [
+      {
+        "text": "In the <head> section  ",
+        "correct": true
+      },
+      {
+        "text": "At the end of the document",
+        "correct": false
+      },
+      {
+        "text": "In the <body> section",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "answers": [
+      {
+        "text": "<script> ",
+        "correct": false
+      },
+      {
+        "text": "<css>",
+        "correct": false
+      },
+      {
+        "text": "<style> ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How do you insert a comment in a CSS file?",
+    "answers": [
+      {
+        "text": "// this is a comment //  ",
+        "correct": false
+      },
+      {
+        "text": "' this is a comment",
+        "correct": false
+      },
+      {
+        "text": "/* this is a comment */  ",
+        "correct": true
+      },
+      {
+        "text": "// this is a comment",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which property is used to change the background color?",
+    "answers": [
+      {
+        "text": "bgcolor",
+        "correct": false
+      },
+      {
+        "text": "background-color",
+        "correct": true
+      },
+      {
+        "text": "color",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which is the correct CSS syntax?",
+    "answers": [
+      {
+        "text": "body:color=black;",
+        "correct": false
+      },
+      {
+        "text": "{body;color:black;}",
+        "correct": false
+      },
+      {
+        "text": "body {color: black;}",
+        "correct": true
+      },
+      {
+        "text": "{body:color=black;}",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which HTML attribute is used to define inline styles?",
+    "answers": [
+      {
+        "text": "styles",
+        "correct": false
+      },
+      {
+        "text": "class",
+        "correct": false
+      },
+      {
+        "text": "style",
+        "correct": true
+      },
+      {
+        "text": "font",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How do you add a background color for all <h1> elements?",
+    "answers": [
+      {
+        "text": "h1 {background-color:#FFFFFF;}  ",
+        "correct": true
+      },
+      {
+        "text": "all.h1 {background-color:#FFFFFF;}",
+        "correct": false
+      },
+      {
+        "text": "h1.all {background-color:#FFFFFF;}",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "When using the padding property; are you allowed to use negative values? ",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": false
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ]
+  }
+]
